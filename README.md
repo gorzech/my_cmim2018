@@ -1,2 +1,3 @@
-# my_cmim2018
+# Brief description of the repository
+
 Repository for assigments at LUT course CMiM.
